@@ -4,7 +4,7 @@ This repository contains core ideas, codes and some demos of the final project o
 
 <img src="./imgs/cover.jpg" style="zoom:33%;" />
 
-Final demo video: [demo](./videos/final_demo.MOV)
+Download the final demo video: [demo](https://cloud.tsinghua.edu.cn/f/9025689814b34d5a8fdc/?dl=1)
 
 ## Technological Difficulties
 
